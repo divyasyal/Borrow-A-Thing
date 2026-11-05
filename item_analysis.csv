@@ -1,0 +1,201 @@
+"item_id","item_name","category","rent_per_day","borrow_count","average_days","revenue"
+"ITM023","Computer Networks","Lab Equipment","10",4,6,240
+"ITM038","Multimeter","Project Kits","20",4,7.25,580
+"ITM082","Scientific Calculator","Lab Equipment","40",4,10.25,1640
+"ITM104","Webcam","Electronics","200",4,9.5,7600
+"ITM002","Microphone","Books","30",3,8,720
+"ITM010","Presentation Clicker","Stationery","75",3,9.67,2175
+"ITM032","USB Hub","Project Kits","40",3,7,840
+"ITM045","Microphone","Accessories","40",3,6.67,800
+"ITM052","Operating Systems","Project Kits","30",3,8,720
+"ITM081","Java Programming","Electronics","150",3,4.33,1950
+"ITM093","Raspberry Pi","Lab Equipment","10",3,4,120
+"ITM105","Casio Calculator","Tablets","20",3,8.33,500
+"ITM109","Scientific Calculator","Stationery","200",3,7.67,4600
+"ITM132","Programming in C","Books","100",3,10,3000
+"ITM136","HDMI Cable","Lab Equipment","20",3,6.67,400
+"ITM148","DBMS Complete Guide","Calculators","40",3,4.33,520
+"ITM153","USB Hub","Stationery","20",3,6,360
+"ITM179","Multimeter","Project Kits","200",3,7.67,4600
+"ITM001","Tablet","Lab Equipment","250",2,6.5,3250
+"ITM004","Chemistry Lab Kit","Accessories","100",2,8,1600
+"ITM013","USB Hub","Tablets","75",2,8,1200
+"ITM016","Computer Graphics","Lab Equipment","250",2,14.5,7250
+"ITM017","Keyboard","Stationery","200",2,9,3600
+"ITM019","Tablet","Books","20",2,11.5,460
+"ITM021","Data Structures Book","Books","250",2,4,2000
+"ITM031","Engineering Drawing Kit","Calculators","20",2,12.5,500
+"ITM033","Breadboard Kit","Project Kits","20",2,8.5,340
+"ITM034","Discrete Mathematics","Lab Equipment","200",2,4,1600
+"ITM035","Casio Calculator","Stationery","50",2,4.5,450
+"ITM036","Presentation Clicker","Lab Equipment","10",2,6,120
+"ITM061","Computer Networks","Calculators","100",2,10,2000
+"ITM063","Operating Systems","Tablets","150",2,11.5,3450
+"ITM077","Keyboard","Stationery","40",2,3,240
+"ITM083","Computer Graphics","Tablets","40",2,3.5,280
+"ITM102","Java Programming","Books","75",2,7.5,1125
+"ITM110","Operating Systems","Electronics","30",2,9,540
+"ITM115","Data Structures Book","Books","250",2,9,4500
+"ITM130","Operating Systems","Books","100",2,8,1600
+"ITM131","Raspberry Pi","Tablets","150",2,8.5,2550
+"ITM138","Physics Lab Kit","Electronics","200",2,7,2800
+"ITM142","Chemistry Lab Kit","Accessories","250",2,8.5,4250
+"ITM145","Keyboard","Accessories","100",2,11.5,2300
+"ITM146","Operating Systems","Accessories","200",2,10.5,4200
+"ITM156","Webcam","Books","150",2,10.5,3150
+"ITM158","Operating Systems","Electronics","40",2,11,880
+"ITM160","Discrete Mathematics","Calculators","150",2,8.5,2550
+"ITM167","Scientific Calculator","Tablets","75",2,6,900
+"ITM176","Data Structures Book","Stationery","75",2,9,1350
+"ITM177","USB Hub","Calculators","50",2,4,400
+"ITM180","Microphone","Calculators","150",2,5.5,1650
+"ITM185","Mouse","Project Kits","50",2,9,900
+"ITM188","Breadboard Kit","Lab Equipment","100",2,10,2000
+"ITM190","Chemistry Lab Kit","Accessories","20",2,4,160
+"ITM193","Presentation Clicker","Calculators","150",2,8,2400
+"ITM196","Web Development","Tablets","200",2,7,2800
+"ITM007","Physics Lab Kit","Books","40",1,2,80
+"ITM008","Webcam","Project Kits","30",1,11,330
+"ITM009","Physics Lab Kit","Project Kits","10",1,1,10
+"ITM012","Computer Networks","Stationery","30",1,13,390
+"ITM014","Multimeter","Calculators","10",1,2,20
+"ITM018","Engineering Drawing Kit","Tablets","200",1,7,1400
+"ITM020","Microphone","Stationery","10",1,2,20
+"ITM024","Headphones","Calculators","30",1,6,180
+"ITM028","Keyboard","Accessories","30",1,15,450
+"ITM029","Raspberry Pi","Calculators","20",1,5,100
+"ITM042","Computer Networks","Stationery","75",1,6,450
+"ITM046","Chemistry Lab Kit","Accessories","30",1,2,60
+"ITM047","Computer Networks","Electronics","150",1,3,450
+"ITM048","DBMS Complete Guide","Books","250",1,12,3000
+"ITM051","Java Programming","Calculators","10",1,3,30
+"ITM062","Microphone","Books","200",1,1,200
+"ITM064","Engineering Drawing Kit","Stationery","40",1,12,480
+"ITM067","Tablet","Books","50",1,14,700
+"ITM068","Projector","Calculators","200",1,3,600
+"ITM073","Discrete Mathematics","Tablets","20",1,1,20
+"ITM074","Breadboard Kit","Electronics","40",1,4,160
+"ITM078","Raspberry Pi","Project Kits","150",1,9,1350
+"ITM080","Breadboard Kit","Accessories","100",1,12,1200
+"ITM084","Computer Networks","Electronics","20",1,8,160
+"ITM086","DBMS Complete Guide","Calculators","10",1,15,150
+"ITM087","Keyboard","Accessories","10",1,14,140
+"ITM088","Projector","Lab Equipment","250",1,2,500
+"ITM095","Arduino Kit","Stationery","50",1,7,350
+"ITM096","Headphones","Stationery","20",1,1,20
+"ITM097","Laptop","Tablets","75",1,5,375
+"ITM098","Operating Systems","Project Kits","150",1,3,450
+"ITM099","Scientific Calculator","Lab Equipment","75",1,4,300
+"ITM100","Data Structures Book","Calculators","40",1,8,320
+"ITM101","Arduino Kit","Project Kits","250",1,10,2500
+"ITM107","Microphone","Stationery","200",1,15,3000
+"ITM113","Arduino Kit","Lab Equipment","30",1,1,30
+"ITM116","Presentation Clicker","Calculators","200",1,9,1800
+"ITM117","Computer Networks","Accessories","100",1,12,1200
+"ITM122","Laptop","Accessories","50",1,6,300
+"ITM124","Operating Systems","Project Kits","40",1,11,440
+"ITM128","Data Structures Book","Tablets","75",1,4,300
+"ITM129","Headphones","Electronics","10",1,11,110
+"ITM135","DBMS Complete Guide","Accessories","150",1,10,1500
+"ITM137","Chemistry Lab Kit","Tablets","75",1,13,975
+"ITM140","Computer Networks","Stationery","200",1,2,400
+"ITM143","Engineering Drawing Kit","Electronics","50",1,1,50
+"ITM147","Programming in C","Calculators","100",1,11,1100
+"ITM149","Tablet","Tablets","100",1,4,400
+"ITM150","Mouse","Tablets","150",1,10,1500
+"ITM152","Web Development","Accessories","50",1,15,750
+"ITM157","USB Hub","Accessories","50",1,1,50
+"ITM159","Multimeter","Books","150",1,14,2100
+"ITM161","USB Hub","Calculators","250",1,4,1000
+"ITM165","Breadboard Kit","Stationery","100",1,2,200
+"ITM168","Projector","Books","30",1,1,30
+"ITM170","DBMS Complete Guide","Accessories","30",1,2,60
+"ITM171","Breadboard Kit","Project Kits","200",1,7,1400
+"ITM172","Tablet","Books","10",1,2,20
+"ITM173","Tablet","Stationery","150",1,5,750
+"ITM178","Operating Systems","Accessories","100",1,11,1100
+"ITM181","Breadboard Kit","Lab Equipment","200",1,11,2200
+"ITM183","Keyboard","Accessories","20",1,15,300
+"ITM186","Microphone","Stationery","200",1,13,2600
+"ITM187","Mouse","Lab Equipment","250",1,6,1500
+"ITM191","Microphone","Accessories","200",1,13,2600
+"ITM195","Web Development","Stationery","250",1,3,750
+"ITM198","Engineering Drawing Kit","Electronics","250",1,3,750
+"ITM199","Scientific Calculator","Accessories","40",1,12,480
+"ITM003","Keyboard","Project Kits","50",0,0,0
+"ITM005","Engineering Drawing Kit","Books","100",0,0,0
+"ITM006","Presentation Clicker","Stationery","40",0,0,0
+"ITM011","Chemistry Lab Kit","Tablets","50",0,0,0
+"ITM015","Python Programming","Calculators","250",0,0,0
+"ITM022","Raspberry Pi","Calculators","40",0,0,0
+"ITM025","HDMI Cable","Stationery","250",0,0,0
+"ITM026","Data Structures Book","Tablets","50",0,0,0
+"ITM027","Microphone","Lab Equipment","10",0,0,0
+"ITM030","HDMI Cable","Accessories","150",0,0,0
+"ITM037","Keyboard","Books","40",0,0,0
+"ITM039","Casio Calculator","Stationery","30",0,0,0
+"ITM040","Multimeter","Books","20",0,0,0
+"ITM041","Projector","Calculators","50",0,0,0
+"ITM043","Chemistry Lab Kit","Books","150",0,0,0
+"ITM044","Multimeter","Lab Equipment","50",0,0,0
+"ITM049","Laptop","Calculators","75",0,0,0
+"ITM050","Casio Calculator","Stationery","40",0,0,0
+"ITM053","Raspberry Pi","Tablets","40",0,0,0
+"ITM054","Presentation Clicker","Stationery","50",0,0,0
+"ITM055","Arduino Kit","Calculators","30",0,0,0
+"ITM056","Data Structures Book","Electronics","40",0,0,0
+"ITM057","Tablet","Calculators","40",0,0,0
+"ITM058","Computer Graphics","Stationery","40",0,0,0
+"ITM059","DBMS Complete Guide","Stationery","75",0,0,0
+"ITM060","Laptop","Books","50",0,0,0
+"ITM065","Laptop","Calculators","40",0,0,0
+"ITM066","Tablet","Lab Equipment","100",0,0,0
+"ITM069","Laptop","Lab Equipment","40",0,0,0
+"ITM070","Projector","Lab Equipment","10",0,0,0
+"ITM071","Engineering Drawing Kit","Lab Equipment","50",0,0,0
+"ITM072","USB Hub","Project Kits","10",0,0,0
+"ITM075","HDMI Cable","Tablets","200",0,0,0
+"ITM076","Physics Lab Kit","Tablets","75",0,0,0
+"ITM079","Discrete Mathematics","Project Kits","20",0,0,0
+"ITM085","Microphone","Calculators","150",0,0,0
+"ITM089","Headphones","Electronics","100",0,0,0
+"ITM090","Arduino Kit","Lab Equipment","10",0,0,0
+"ITM091","Webcam","Accessories","200",0,0,0
+"ITM092","Multimeter","Calculators","50",0,0,0
+"ITM094","Casio Calculator","Calculators","20",0,0,0
+"ITM103","Chemistry Lab Kit","Books","10",0,0,0
+"ITM106","Computer Graphics","Electronics","30",0,0,0
+"ITM108","Presentation Clicker","Books","10",0,0,0
+"ITM111","Engineering Drawing Kit","Stationery","50",0,0,0
+"ITM112","Web Development","Electronics","200",0,0,0
+"ITM114","Microphone","Stationery","100",0,0,0
+"ITM118","Raspberry Pi","Calculators","150",0,0,0
+"ITM119","Headphones","Calculators","75",0,0,0
+"ITM120","Computer Graphics","Accessories","30",0,0,0
+"ITM121","Casio Calculator","Books","10",0,0,0
+"ITM123","Engineering Drawing Kit","Project Kits","150",0,0,0
+"ITM125","Arduino Kit","Stationery","150",0,0,0
+"ITM126","Arduino Kit","Accessories","75",0,0,0
+"ITM127","Discrete Mathematics","Lab Equipment","200",0,0,0
+"ITM133","Computer Networks","Project Kits","150",0,0,0
+"ITM134","DBMS Complete Guide","Stationery","10",0,0,0
+"ITM139","Raspberry Pi","Electronics","50",0,0,0
+"ITM141","Data Structures Book","Accessories","30",0,0,0
+"ITM144","USB Hub","Accessories","100",0,0,0
+"ITM151","Data Structures Book","Tablets","40",0,0,0
+"ITM154","Mouse","Project Kits","40",0,0,0
+"ITM155","Physics Lab Kit","Calculators","150",0,0,0
+"ITM162","Casio Calculator","Accessories","100",0,0,0
+"ITM163","Engineering Drawing Kit","Lab Equipment","10",0,0,0
+"ITM164","Python Programming","Lab Equipment","10",0,0,0
+"ITM166","Breadboard Kit","Accessories","40",0,0,0
+"ITM169","Engineering Drawing Kit","Lab Equipment","100",0,0,0
+"ITM174","Discrete Mathematics","Accessories","30",0,0,0
+"ITM175","Computer Graphics","Accessories","100",0,0,0
+"ITM182","Headphones","Lab Equipment","250",0,0,0
+"ITM184","USB Hub","Stationery","10",0,0,0
+"ITM189","Laptop","Project Kits","200",0,0,0
+"ITM192","DBMS Complete Guide","Calculators","200",0,0,0
+"ITM194","Java Programming","Calculators","50",0,0,0
+"ITM197","Computer Networks","Electronics","40",0,0,0
+"ITM200","Casio Calculator","Tablets","50",0,0,0

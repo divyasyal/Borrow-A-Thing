@@ -1,0 +1,201 @@
+"student_id","name","email","password","department","year","reliability_score","money_saved","eco_points"
+"STU001","Demo Student","student@example.com","1234","Mechanical","Final Year",78,1444,27
+"STU002","Krishna Malhotra","student2@borrowathing.com","1234","Computer Science","2nd Year",81,118,681
+"STU003","Aanya Kumar","student3@borrowathing.com","1234","Physics","3rd Year",71,2747,949
+"STU004","Ira Malhotra","student4@borrowathing.com","1234","Mechanical","2nd Year",65,4292,216
+"STU005","Diya Kapoor","student5@borrowathing.com","1234","Mechanical","1st Year",72,1708,414
+"STU006","Arjun Kumar","student6@borrowathing.com","1234","Management","1st Year",100,1967,762
+"STU007","Sara Gupta","student7@borrowathing.com","1234","Computer Science","3rd Year",100,1415,602
+"STU008","Reyansh Verma","student8@borrowathing.com","1234","Electronics","3rd Year",71,2049,85
+"STU009","Diya Kaur","student9@borrowathing.com","1234","Computer Science","3rd Year",86,2892,778
+"STU010","Vivaan Arora","student10@borrowathing.com","1234","Physics","2nd Year",88,1358,77
+"STU011","Avni Singh","student11@borrowathing.com","1234","Mathematics","2nd Year",72,4114,128
+"STU012","Ira Kapoor","student12@borrowathing.com","1234","Computer Science","2nd Year",97,3637,11
+"STU013","Myra Kaur","student13@borrowathing.com","1234","Computer Science","3rd Year",74,2007,176
+"STU014","Meera Malhotra","student14@borrowathing.com","1234","Information Technology","3rd Year",98,1796,62
+"STU015","Diya Arora","student15@borrowathing.com","1234","Physics","Final Year",82,3404,300
+"STU016","Rahul Kapoor","student16@borrowathing.com","1234","Information Technology","2nd Year",83,270,412
+"STU017","Kiara Verma","student17@borrowathing.com","1234","Physics","1st Year",79,3548,864
+"STU018","Vivaan Verma","student18@borrowathing.com","1234","Mechanical","1st Year",68,1207,826
+"STU019","Reyansh Kumar","student19@borrowathing.com","1234","Electronics","2nd Year",65,957,978
+"STU020","Diya Gupta","student20@borrowathing.com","1234","Electronics","Final Year",77,4737,641
+"STU021","Reyansh Gupta","student21@borrowathing.com","1234","Mathematics","Final Year",87,2450,313
+"STU022","Sara Kaur","student22@borrowathing.com","1234","Information Technology","3rd Year",74,1023,779
+"STU023","Aditya Kumar","student23@borrowathing.com","1234","Mathematics","Final Year",90,178,207
+"STU024","Diya Arora","student24@borrowathing.com","1234","Management","1st Year",100,1014,938
+"STU025","Aditya Singh","student25@borrowathing.com","1234","Physics","3rd Year",92,4364,91
+"STU026","Aditya Mehta","student26@borrowathing.com","1234","Mechanical","3rd Year",81,243,107
+"STU027","Rahul Mehta","student27@borrowathing.com","1234","Electronics","1st Year",100,334,931
+"STU028","Arjun Singh","student28@borrowathing.com","1234","Electronics","Final Year",85,4809,466
+"STU029","Kabir Kaur","student29@borrowathing.com","1234","Information Technology","2nd Year",87,2191,787
+"STU030","Kiara Arora","student30@borrowathing.com","1234","Physics","1st Year",77,1207,864
+"STU031","Vivaan Singh","student31@borrowathing.com","1234","Computer Science","1st Year",95,1043,445
+"STU032","Aanya Mehta","student32@borrowathing.com","1234","Information Technology","1st Year",97,1239,152
+"STU033","Rohan Kapoor","student33@borrowathing.com","1234","Computer Science","Final Year",65,3981,530
+"STU034","Diya Sharma","student34@borrowathing.com","1234","Commerce","Final Year",67,1591,35
+"STU035","Reyansh Malhotra","student35@borrowathing.com","1234","Computer Science","2nd Year",68,2257,884
+"STU036","Rohan Kumar","student36@borrowathing.com","1234","Management","3rd Year",79,3074,622
+"STU037","Aanya Kumar","student37@borrowathing.com","1234","Commerce","2nd Year",95,3491,999
+"STU038","Kiara Mehta","student38@borrowathing.com","1234","Computer Science","2nd Year",90,3624,794
+"STU039","Rohan Mehta","student39@borrowathing.com","1234","Information Technology","2nd Year",78,514,81
+"STU040","Sara Mehta","student40@borrowathing.com","1234","Commerce","3rd Year",65,4856,660
+"STU041","Ishaan Gupta","student41@borrowathing.com","1234","Information Technology","1st Year",69,2581,761
+"STU042","Kiara Kapoor","student42@borrowathing.com","1234","Management","2nd Year",88,2454,14
+"STU043","Reyansh Kapoor","student43@borrowathing.com","1234","Mathematics","1st Year",65,1204,240
+"STU044","Reyansh Gupta","student44@borrowathing.com","1234","Mathematics","3rd Year",71,1844,215
+"STU045","Ananya Kapoor","student45@borrowathing.com","1234","Commerce","Final Year",94,1219,77
+"STU046","Arjun Kaur","student46@borrowathing.com","1234","Physics","3rd Year",100,2779,966
+"STU047","Meera Verma","student47@borrowathing.com","1234","Computer Science","Final Year",76,1205,488
+"STU048","Kabir Gupta","student48@borrowathing.com","1234","Management","Final Year",99,2708,568
+"STU049","Rohan Sharma","student49@borrowathing.com","1234","Management","1st Year",71,4550,309
+"STU050","Aditya Kaur","student50@borrowathing.com","1234","Mathematics","2nd Year",75,1287,94
+"STU051","Ira Kumar","student51@borrowathing.com","1234","Mechanical","3rd Year",96,519,924
+"STU052","Nisha Arora","student52@borrowathing.com","1234","Electronics","2nd Year",71,4995,228
+"STU053","Rohan Arora","student53@borrowathing.com","1234","Mathematics","3rd Year",100,4426,212
+"STU054","Krishna Verma","student54@borrowathing.com","1234","Information Technology","Final Year",80,2791,611
+"STU055","Arjun Mehta","student55@borrowathing.com","1234","Management","3rd Year",99,4661,611
+"STU056","Ira Verma","student56@borrowathing.com","1234","Physics","3rd Year",82,3644,607
+"STU057","Aarav Sharma","student57@borrowathing.com","1234","Commerce","Final Year",82,1320,831
+"STU058","Diya Gupta","student58@borrowathing.com","1234","Commerce","1st Year",83,4941,610
+"STU059","Krishna Gupta","student59@borrowathing.com","1234","Mathematics","Final Year",79,2321,474
+"STU060","Aanya Kapoor","student60@borrowathing.com","1234","Management","2nd Year",98,963,258
+"STU061","Arjun Sharma","student61@borrowathing.com","1234","Mechanical","3rd Year",81,2095,82
+"STU062","Kabir Kaur","student62@borrowathing.com","1234","Mathematics","1st Year",98,435,885
+"STU063","Krishna Malhotra","student63@borrowathing.com","1234","Physics","Final Year",91,3073,206
+"STU064","Sara Malhotra","student64@borrowathing.com","1234","Information Technology","3rd Year",73,3001,41
+"STU065","Krishna Arora","student65@borrowathing.com","1234","Mathematics","Final Year",70,2633,872
+"STU066","Meera Malhotra","student66@borrowathing.com","1234","Commerce","1st Year",82,2411,560
+"STU067","Avni Singh","student67@borrowathing.com","1234","Mechanical","2nd Year",80,2080,441
+"STU068","Aarav Kumar","student68@borrowathing.com","1234","Physics","1st Year",96,826,158
+"STU069","Meera Mehta","student69@borrowathing.com","1234","Management","2nd Year",71,285,16
+"STU070","Nisha Mehta","student70@borrowathing.com","1234","Mechanical","2nd Year",77,4326,483
+"STU071","Krishna Kapoor","student71@borrowathing.com","1234","Management","3rd Year",86,3302,44
+"STU072","Reyansh Malhotra","student72@borrowathing.com","1234","Computer Science","Final Year",95,1137,260
+"STU073","Meera Kapoor","student73@borrowathing.com","1234","Mechanical","Final Year",73,2665,463
+"STU074","Aditya Kapoor","student74@borrowathing.com","1234","Mechanical","1st Year",80,4437,45
+"STU075","Nisha Verma","student75@borrowathing.com","1234","Management","3rd Year",73,482,980
+"STU076","Ira Verma","student76@borrowathing.com","1234","Physics","Final Year",89,841,73
+"STU077","Meera Arora","student77@borrowathing.com","1234","Electronics","1st Year",89,3728,209
+"STU078","Kabir Singh","student78@borrowathing.com","1234","Computer Science","Final Year",69,2302,173
+"STU079","Arjun Verma","student79@borrowathing.com","1234","Information Technology","Final Year",68,3909,957
+"STU080","Aanya Kapoor","student80@borrowathing.com","1234","Computer Science","2nd Year",89,897,794
+"STU081","Aarav Verma","student81@borrowathing.com","1234","Mathematics","1st Year",81,3545,446
+"STU082","Diya Arora","student82@borrowathing.com","1234","Mechanical","1st Year",87,4346,51
+"STU083","Aditya Arora","student83@borrowathing.com","1234","Computer Science","Final Year",75,3802,708
+"STU084","Avni Sharma","student84@borrowathing.com","1234","Commerce","1st Year",81,2862,648
+"STU085","Aanya Mehta","student85@borrowathing.com","1234","Mathematics","3rd Year",82,2262,600
+"STU086","Aarav Singh","student86@borrowathing.com","1234","Information Technology","Final Year",97,149,132
+"STU087","Krishna Malhotra","student87@borrowathing.com","1234","Information Technology","3rd Year",65,2726,368
+"STU088","Kiara Sharma","student88@borrowathing.com","1234","Management","3rd Year",86,697,597
+"STU089","Nisha Sharma","student89@borrowathing.com","1234","Mechanical","2nd Year",96,3357,824
+"STU090","Kiara Mehta","student90@borrowathing.com","1234","Physics","2nd Year",95,2037,520
+"STU091","Aarav Sharma","student91@borrowathing.com","1234","Commerce","1st Year",96,361,181
+"STU092","Nisha Mehta","student92@borrowathing.com","1234","Commerce","1st Year",97,1883,365
+"STU093","Rahul Gupta","student93@borrowathing.com","1234","Management","2nd Year",90,1682,790
+"STU094","Vivaan Malhotra","student94@borrowathing.com","1234","Electronics","2nd Year",74,4601,531
+"STU095","Arjun Verma","student95@borrowathing.com","1234","Information Technology","3rd Year",80,4240,734
+"STU096","Reyansh Singh","student96@borrowathing.com","1234","Commerce","Final Year",100,1105,577
+"STU097","Ira Mehta","student97@borrowathing.com","1234","Commerce","1st Year",68,3146,956
+"STU098","Aarav Kumar","student98@borrowathing.com","1234","Mathematics","2nd Year",72,110,335
+"STU099","Meera Kapoor","student99@borrowathing.com","1234","Mechanical","1st Year",79,1699,798
+"STU100","Rohan Mehta","student100@borrowathing.com","1234","Information Technology","3rd Year",82,1932,136
+"STU101","Aanya Sharma","student101@borrowathing.com","1234","Mechanical","2nd Year",82,4024,559
+"STU102","Diya Mehta","student102@borrowathing.com","1234","Computer Science","3rd Year",87,1287,830
+"STU103","Avni Malhotra","student103@borrowathing.com","1234","Mathematics","Final Year",86,4733,101
+"STU104","Kiara Mehta","student104@borrowathing.com","1234","Management","2nd Year",79,2830,565
+"STU105","Diya Kapoor","student105@borrowathing.com","1234","Physics","3rd Year",74,2977,369
+"STU106","Rohan Malhotra","student106@borrowathing.com","1234","Commerce","2nd Year",74,498,340
+"STU107","Aditya Sharma","student107@borrowathing.com","1234","Mathematics","Final Year",95,3352,613
+"STU108","Vivaan Verma","student108@borrowathing.com","1234","Physics","2nd Year",96,4688,991
+"STU109","Meera Verma","student109@borrowathing.com","1234","Electronics","Final Year",82,4505,227
+"STU110","Vivaan Singh","student110@borrowathing.com","1234","Mathematics","2nd Year",68,823,248
+"STU111","Rahul Kapoor","student111@borrowathing.com","1234","Management","3rd Year",94,4943,265
+"STU112","Aanya Verma","student112@borrowathing.com","1234","Computer Science","1st Year",77,1195,869
+"STU113","Rahul Mehta","student113@borrowathing.com","1234","Information Technology","Final Year",84,3835,73
+"STU114","Myra Kumar","student114@borrowathing.com","1234","Electronics","3rd Year",71,623,817
+"STU115","Krishna Kaur","student115@borrowathing.com","1234","Mechanical","Final Year",76,4641,242
+"STU116","Avni Sharma","student116@borrowathing.com","1234","Management","2nd Year",83,712,514
+"STU117","Diya Kapoor","student117@borrowathing.com","1234","Commerce","2nd Year",88,1004,759
+"STU118","Diya Gupta","student118@borrowathing.com","1234","Electronics","3rd Year",81,1337,109
+"STU119","Vivaan Verma","student119@borrowathing.com","1234","Physics","2nd Year",96,1880,790
+"STU120","Arjun Mehta","student120@borrowathing.com","1234","Physics","2nd Year",75,153,287
+"STU121","Vivaan Singh","student121@borrowathing.com","1234","Management","Final Year",92,2725,199
+"STU122","Krishna Arora","student122@borrowathing.com","1234","Computer Science","1st Year",95,3341,321
+"STU123","Ira Arora","student123@borrowathing.com","1234","Information Technology","3rd Year",95,1022,723
+"STU124","Meera Gupta","student124@borrowathing.com","1234","Commerce","Final Year",85,2015,165
+"STU125","Diya Mehta","student125@borrowathing.com","1234","Computer Science","Final Year",85,2218,389
+"STU126","Arjun Singh","student126@borrowathing.com","1234","Commerce","1st Year",71,2830,75
+"STU127","Arjun Gupta","student127@borrowathing.com","1234","Information Technology","Final Year",87,1008,678
+"STU128","Aditya Mehta","student128@borrowathing.com","1234","Physics","2nd Year",71,2405,474
+"STU129","Ananya Arora","student129@borrowathing.com","1234","Management","3rd Year",89,2831,958
+"STU130","Sara Arora","student130@borrowathing.com","1234","Mathematics","Final Year",70,4634,582
+"STU131","Krishna Kaur","student131@borrowathing.com","1234","Physics","Final Year",67,1593,508
+"STU132","Krishna Singh","student132@borrowathing.com","1234","Management","3rd Year",95,4391,597
+"STU133","Aarav Gupta","student133@borrowathing.com","1234","Mathematics","2nd Year",77,1999,875
+"STU134","Arjun Gupta","student134@borrowathing.com","1234","Electronics","3rd Year",100,1332,170
+"STU135","Avni Kaur","student135@borrowathing.com","1234","Electronics","3rd Year",99,1876,618
+"STU136","Aanya Arora","student136@borrowathing.com","1234","Mechanical","Final Year",78,3245,768
+"STU137","Aditya Mehta","student137@borrowathing.com","1234","Mechanical","3rd Year",84,1431,21
+"STU138","Reyansh Verma","student138@borrowathing.com","1234","Commerce","Final Year",83,3653,165
+"STU139","Krishna Malhotra","student139@borrowathing.com","1234","Information Technology","3rd Year",88,1558,432
+"STU140","Avni Arora","student140@borrowathing.com","1234","Computer Science","1st Year",90,3878,839
+"STU141","Ira Gupta","student141@borrowathing.com","1234","Management","1st Year",86,1218,437
+"STU142","Rahul Arora","student142@borrowathing.com","1234","Mechanical","Final Year",75,4385,867
+"STU143","Krishna Kumar","student143@borrowathing.com","1234","Computer Science","2nd Year",95,1556,523
+"STU144","Ananya Verma","student144@borrowathing.com","1234","Mechanical","1st Year",66,4989,963
+"STU145","Avni Kapoor","student145@borrowathing.com","1234","Management","3rd Year",66,3182,122
+"STU146","Arjun Singh","student146@borrowathing.com","1234","Physics","2nd Year",86,2515,434
+"STU147","Kiara Gupta","student147@borrowathing.com","1234","Mechanical","1st Year",79,1412,252
+"STU148","Sara Kapoor","student148@borrowathing.com","1234","Commerce","3rd Year",73,1643,816
+"STU149","Kiara Malhotra","student149@borrowathing.com","1234","Computer Science","3rd Year",72,3196,636
+"STU150","Arjun Singh","student150@borrowathing.com","1234","Mechanical","2nd Year",75,637,722
+"STU151","Avni Sharma","student151@borrowathing.com","1234","Mathematics","2nd Year",67,337,860
+"STU152","Krishna Gupta","student152@borrowathing.com","1234","Mathematics","2nd Year",84,3143,428
+"STU153","Diya Kumar","student153@borrowathing.com","1234","Management","Final Year",67,988,719
+"STU154","Aarav Mehta","student154@borrowathing.com","1234","Mechanical","3rd Year",66,3798,128
+"STU155","Reyansh Malhotra","student155@borrowathing.com","1234","Commerce","2nd Year",65,2771,583
+"STU156","Krishna Arora","student156@borrowathing.com","1234","Commerce","3rd Year",78,2860,127
+"STU157","Arjun Verma","student157@borrowathing.com","1234","Information Technology","1st Year",76,4594,66
+"STU158","Myra Verma","student158@borrowathing.com","1234","Information Technology","Final Year",91,4289,758
+"STU159","Aanya Arora","student159@borrowathing.com","1234","Physics","Final Year",91,1286,927
+"STU160","Vivaan Verma","student160@borrowathing.com","1234","Electronics","1st Year",80,3298,860
+"STU161","Kiara Malhotra","student161@borrowathing.com","1234","Management","1st Year",74,2824,805
+"STU162","Sara Malhotra","student162@borrowathing.com","1234","Mathematics","Final Year",82,2460,110
+"STU163","Myra Singh","student163@borrowathing.com","1234","Mathematics","Final Year",67,1145,414
+"STU164","Kiara Sharma","student164@borrowathing.com","1234","Management","1st Year",93,2228,514
+"STU165","Ira Malhotra","student165@borrowathing.com","1234","Physics","Final Year",65,2723,697
+"STU166","Kabir Kaur","student166@borrowathing.com","1234","Electronics","1st Year",83,4118,630
+"STU167","Meera Gupta","student167@borrowathing.com","1234","Computer Science","1st Year",73,2582,648
+"STU168","Ananya Kumar","student168@borrowathing.com","1234","Physics","Final Year",65,3109,658
+"STU169","Rahul Kumar","student169@borrowathing.com","1234","Mechanical","1st Year",83,3016,426
+"STU170","Sara Arora","student170@borrowathing.com","1234","Mathematics","2nd Year",88,4769,274
+"STU171","Ishaan Gupta","student171@borrowathing.com","1234","Mechanical","1st Year",86,1876,67
+"STU172","Aanya Singh","student172@borrowathing.com","1234","Commerce","2nd Year",90,2346,941
+"STU173","Aanya Kapoor","student173@borrowathing.com","1234","Computer Science","2nd Year",93,1430,472
+"STU174","Kabir Kapoor","student174@borrowathing.com","1234","Mathematics","1st Year",81,805,976
+"STU175","Diya Mehta","student175@borrowathing.com","1234","Mathematics","2nd Year",83,227,609
+"STU176","Ira Gupta","student176@borrowathing.com","1234","Mathematics","Final Year",66,1983,794
+"STU177","Ira Mehta","student177@borrowathing.com","1234","Commerce","Final Year",90,916,856
+"STU178","Rahul Kaur","student178@borrowathing.com","1234","Management","2nd Year",93,4664,338
+"STU179","Kabir Verma","student179@borrowathing.com","1234","Commerce","3rd Year",80,3396,612
+"STU180","Rahul Malhotra","student180@borrowathing.com","1234","Commerce","3rd Year",95,4414,858
+"STU181","Kabir Sharma","student181@borrowathing.com","1234","Electronics","3rd Year",71,501,651
+"STU182","Sara Kapoor","student182@borrowathing.com","1234","Mechanical","Final Year",90,3882,40
+"STU183","Aarav Kapoor","student183@borrowathing.com","1234","Electronics","3rd Year",74,3170,196
+"STU184","Nisha Sharma","student184@borrowathing.com","1234","Physics","3rd Year",93,4491,297
+"STU185","Reyansh Kumar","student185@borrowathing.com","1234","Information Technology","3rd Year",76,3427,313
+"STU186","Rahul Verma","student186@borrowathing.com","1234","Information Technology","3rd Year",84,1188,942
+"STU187","Ananya Singh","student187@borrowathing.com","1234","Information Technology","2nd Year",72,2316,55
+"STU188","Aarav Verma","student188@borrowathing.com","1234","Physics","Final Year",75,1302,368
+"STU189","Kiara Malhotra","student189@borrowathing.com","1234","Computer Science","2nd Year",69,1924,374
+"STU190","Aditya Malhotra","student190@borrowathing.com","1234","Mathematics","Final Year",90,2916,716
+"STU191","Aditya Verma","student191@borrowathing.com","1234","Information Technology","2nd Year",98,3619,466
+"STU192","Vivaan Verma","student192@borrowathing.com","1234","Commerce","2nd Year",93,4293,633
+"STU193","Aanya Kapoor","student193@borrowathing.com","1234","Mathematics","1st Year",90,464,886
+"STU194","Diya Gupta","student194@borrowathing.com","1234","Information Technology","1st Year",68,3639,19
+"STU195","Ishaan Verma","student195@borrowathing.com","1234","Mathematics","3rd Year",85,4578,577
+"STU196","Aanya Verma","student196@borrowathing.com","1234","Computer Science","Final Year",73,3231,567
+"STU197","Ira Kaur","student197@borrowathing.com","1234","Commerce","1st Year",95,1542,240
+"STU198","Aarav Kapoor","student198@borrowathing.com","1234","Management","2nd Year",99,2021,646
+"STU199","Myra Kapoor","student199@borrowathing.com","1234","Management","Final Year",98,3517,264
+"STU200","Arjun Verma","student200@borrowathing.com","1234","Computer Science","1st Year",75,2946,466
